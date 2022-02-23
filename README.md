@@ -1,6 +1,6 @@
 # aws24-homework
 - Task
-![](https://ibb.co/P4tBtNm(jpg))
+![](https://github.com/Sacrament84/pictures/blob/main/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA1.png)
 I done this task with Terraform
 # Install
 You need installed Terraform and AWS credentials
