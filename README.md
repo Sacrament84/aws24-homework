@@ -7,7 +7,7 @@
 
 I done this task with Terraform
 # Install
-You need installed Terraform and AWS credentials
+You need installed Terraform and AWS credentials.
 The whole scheme works on AWS free tier
 ### Note! Free tier rds not available in all regions!
 - git clone https://github.com/Sacrament84/aws24-homework.git
