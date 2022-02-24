@@ -39,7 +39,7 @@ resource "aws_db_instance" "wordpressdb" {
   instance_class         = var.instance_class
   db_subnet_group_name   = aws_db_subnet_group.rds.name
   vpc_security_group_ids = [aws_security_group.rds.id]
-  db_name                   = var.database_name
+  db_name                = var.database_name
   username               = var.database_user
   password               = var.database_password
   multi_az               = true

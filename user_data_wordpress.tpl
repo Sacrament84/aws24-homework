@@ -35,8 +35,6 @@ EOF
 systemctl restart php-fpm.service
 
 systemctl start  httpd
-systemctl start mysqld
-
 # Change OWNER and permission of directory /var/www
 usermod -a -G apache ec2-user
 chown -R ec2-user:apache /var/www
